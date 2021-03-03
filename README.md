@@ -2,6 +2,8 @@
 
 > A BASIC game of randomly selected tubular dance moves.
 
+![`Random_Dancer.exe` Demo](Random_Dancer.gif)
+
 ## How to Play 💾
 
 ### Installation 👨‍💻
