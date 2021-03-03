@@ -16,7 +16,7 @@ This program was created with the [QB64 IDE][qb64_home] ([code][qb64_gh]) in a m
 
 ### Installation 👨‍💻
 
-The easiest way to play this game is to download this repository as a ZIP file and copy the contents into a safe place on your computer.
+The easiest way to play this game is to download this [repository as a ZIP file][repo_dl] and copy the contents into a safe place on your computer.
 
 ### Usage 🎷
 
@@ -46,3 +46,4 @@ Programmed with 💖 by [EthanThatOneKid][author_gh]
 [qb64_releases]: https://github.com/QB64Team/qb64/releases
 [ascii_info]: https://en.wikipedia.org/wiki/ASCII_art
 [author_gh]: https://github.com/ethanthatonekid 
+[repo_dl]: https://github.com/EthanThatOneKid/Random_Dancer/archive/master.zip
