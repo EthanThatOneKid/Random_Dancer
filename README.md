@@ -37,7 +37,12 @@ Open the BASIC file (file with `bas` extension) in/with the QB64 IDE.
 Code formatting, syntax highlighting, and documentation is readily available.
 Press <kbd>F5</kbd> to run the program in the IDE.
 
+---
+
+Programmed with 💖 by [EthanThatOneKid][author_gh]
+
 [qb64_home]: https://www.qb64.org/portal/
 [qb64_gh]: https://github.com/QB64Team/qb64
 [qb64_releases]: https://github.com/QB64Team/qb64/releases
 [ascii_info]: https://en.wikipedia.org/wiki/ASCII_art
+[author_gh]: https://github.com/ethanthatonekid 
