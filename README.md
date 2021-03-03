@@ -4,6 +4,14 @@
 
 ![`Random_Dancer.exe` Demo](Random_Dancer.gif)
 
+## About 💬
+
+This program was created with the [QB64 IDE][qb64_home] ([code][qb64_gh]) in a modern superset of the BASIC programming language.
+
+**Developer's Note**:
+
+> *This is not really a game but it was a fun, little program that I made a pretty long time ago. All you do is rapidly tap your space bar or tap it to the beat of a song and an ASCII stick figure begins to break it down on the dance floor. Personally, I kept it on my desktop and opened it whenever I felt like taking a mental break and listen to some music. It is pretty neat if you're a type of person with simple pleasures, like me.*
+
 ## How to Play 💾
 
 ### Installation 👨‍💻
@@ -18,14 +26,6 @@ Open the executable (file with `exe` extension).
 
 Once you get the executable to run successfully, a terminal-looking window will appear.
 Press <kbd>space</kbd> to make the [ASCII][ascii_info] stick-figure dance to your heart's content.
-
-## About ❓
-
-This program was created with the [QB64 IDE][qb64_home] ([code][qb64_gh]) in a modern superset of the BASIC programming language.
-
-**Developer's Note**:
-
-> *This is not really a game but it was a fun, little program that I made a pretty long time ago. All you do is rapidly tap your space bar or tap it to the beat of a song and an ASCII stick figure begins to break it down on the dance floor. Personally, I kept it on my desktop and opened it whenever I felt like taking a mental break and listen to some music. It is pretty neat if you're a type of person with simple pleasures, like me.*
 
 ## Development 👨‍💻
 
