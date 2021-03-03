@@ -25,13 +25,13 @@ This program was created with the [QB64 IDE][qb64_home] ([code][qb64_gh]) in a m
 
 **Developer's Note**:
 
-> This is not really a game but it was a fun, little program that I made a pretty long time ago. All you do is rapidly tap your space bar or tap it to the beat of a song and an ASCII stick figure begins to break it down on the dance floor. Personally, I kept it on my desktop and opened it whenever I felt like taking a mental break and listen to some music. It is pretty neat if you're a type of person with simple pleasures, like me.
+> *This is not really a game but it was a fun, little program that I made a pretty long time ago. All you do is rapidly tap your space bar or tap it to the beat of a song and an ASCII stick figure begins to break it down on the dance floor. Personally, I kept it on my desktop and opened it whenever I felt like taking a mental break and listen to some music. It is pretty neat if you're a type of person with simple pleasures, like me.*
 
 ## Development 👨‍💻
 
 To work with this project, all you need is to have the [QB64 IDE][qb64_home] installed.
 
-> Refer to [QB64's latest releases][[qb64_releases] on GitHub for installation instructions.
+> 💡 Refer to [QB64's latest releases][qb64_releases] on GitHub for installation instructions.
 
 Open the BASIC file (file with `bas` extension) in/with the QB64 IDE.
 Code formatting, syntax highlighting, and documentation is readily available.
