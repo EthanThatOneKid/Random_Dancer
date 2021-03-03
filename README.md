@@ -1,8 +1,41 @@
-# 🕺 Random_Dancer
-> A Qbasic game of amazingly tubular random dace moves
+# Random Dancer 🕺
 
-## 💾 How to play?
-If you would like to play this game, download the .zip of this repository and run the executable. Have fun! (QB64 compiles to Windows only, unfortunately. Sorry, Mac users)
+> A BASIC game of randomly selected tubular dance moves.
 
-## ❓ ¿Que?
-This is not really a game but it was a fun, lil program that I made a pretty long time ago. All you do is rapidly tap your space bar or tap it to the beat of a song and an ascii stick figure begins to break it down on the dance floor of your mind, randomly laying down what's good all over the place. Lol have fun with it or whateva. Personally, I kept it on my desktop and opened it whenever I felt like taking a mental break and wanted to listen to some music. Its pretty neat if you're the type of person who doesn't take much to become amused, like me.
+## How to Play 💾
+
+### Installation 👨‍💻
+
+The easiest way to play this game is to download this repository as a ZIP file and copy the contents into a safe place on your computer.
+
+### Usage 🎷
+
+Open the executable (file with `exe` extension).
+
+> 💡 If your antivirus software stops you, add the executable file to your antivirus software's whitelist.
+
+Once you get the executable to run successfully, a terminal-looking window will appear.
+Press <kbd>space</kbd> to make the [ASCII][ascii_info] stick-figure dance to your heart's content.
+
+## About ❓
+
+This program was created with the [QB64 IDE][qb64_home] ([code][qb64_gh]) in a modern superset of the BASIC programming language.
+
+**Developer's Note**:
+
+> This is not really a game but it was a fun, little program that I made a pretty long time ago. All you do is rapidly tap your space bar or tap it to the beat of a song and an ASCII stick figure begins to break it down on the dance floor. Personally, I kept it on my desktop and opened it whenever I felt like taking a mental break and listen to some music. It is pretty neat if you're a type of person with simple pleasures, like me.
+
+## Development 👨‍💻
+
+To work with this project, all you need is to have the [QB64 IDE][qb64_home] installed.
+
+> Refer to [QB64's latest releases][[qb64_releases] on GitHub for installation instructions.
+
+Open the BASIC file (file with `bas` extension) in/with the QB64 IDE.
+Code formatting, syntax highlighting, and documentation is readily available.
+Press <kbd>F5</kbd> to run the program in the IDE.
+
+[qb64_home]: https://www.qb64.org/portal/
+[qb64_gh]: https://github.com/QB64Team/qb64
+[qb64_releases]: https://github.com/QB64Team/qb64/releases
+[ascii_info]: https://en.wikipedia.org/wiki/ASCII_art
